@@ -1,2 +1,2 @@
 # CAST
-Download the tool here.
+Download the zip file to use the tool.
